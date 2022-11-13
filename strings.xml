@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Android 01</string>
+    <string name="content_description_more">TODO</string>
+    <string name="bottom_appbar">\nBottom AppBar Bottom AppBar Bottom AppBar Bottom AppBar Bottom AppBar
+        \nBottom AppBar Bottom AppBar Bottom AppBar Bottom AppBar Bottom AppBar
+        \nBottom AppBar Bottom AppBar Bottom AppBar Bottom AppBar Bottom AppBar
+        \nBottom AppBar Bottom AppBar Bottom AppBar Bottom AppBar Bottom AppBar
+        \nBottom AppBar Bottom AppBar Bottom AppBar Bottom AppBar Bottom AppBar
+        \nBottom AppBar Bottom AppBar Bottom AppBar Bottom AppBar Bottom AppBar
+        \nBottom AppBar Bottom AppBar Bottom AppBar Bottom AppBar Bottom AppBar</string>
+    <string name="scrolling_bottom_appbar">Hide on Scrolling Bottom AppBar Hide on Scrolling Bottom AppBar
+        \nHide on Scrolling Bottom AppBar Hide on Scrolling Bottom AppBar
+        \nHide on Scrolling Bottom AppBar Hide on Scrolling Bottom AppBar
+        \nHide on Scrolling Bottom AppBar Hide on Scrolling Bottom AppBar
+        \nHide on Scrolling Bottom AppBar Hide on Scrolling Bottom AppBar
+        \nHide on Scrolling Bottom AppBar Hide on Scrolling Bottom AppBar
+        \nHide on Scrolling Bottom AppBar Hide on Scrolling Bottom AppBar
+        \nHide on Scrolling Bottom AppBar Hide on Scrolling Bottom AppBar</string>
+    <string name="next">Next</string>
+</resources>
